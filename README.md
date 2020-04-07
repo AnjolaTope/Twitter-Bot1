@@ -2,7 +2,7 @@
  This app will respond to tweets mentioning my account with the hashtag #helloWorld.
 
 
-<img src="https://i.imgur.com/LWlHoc6.gif" width="700" height="400" />  
+<img src="https://i.imgur.com/LWlHoc6.gif" width="900" height="700" />  
                                                                   
 
 
